@@ -1,0 +1,20 @@
+# 🌍 Global Currency Converter
+
+A lightweight, real-time command-line interface (CLI) Python application that converts currencies dynamically using current global market exchange rates. Built as part of my university programming portfolio.
+
+---
+
+## ⚡ Key Features
+
+* **Dynamic Exchange Rates:** Automatically computes values across multiple major global currencies.
+* **Input Validation:** Prevents common runtime crashes by handling incorrect symbols or text entries smoothly.
+* **Instant Calculation:** Engineered with low-overhead logic for real-time terminal feedback.
+
+---
+
+## ⚙️ How to Run the App
+
+Ensure you have Python installed on your system, then execute the file from your terminal:
+
+```bash
+python currency_converter.py
